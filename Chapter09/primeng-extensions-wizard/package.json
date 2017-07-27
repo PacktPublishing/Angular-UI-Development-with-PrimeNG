@@ -1,0 +1,57 @@
+{
+  "name": "primeng-extensions-wizard",
+  "version": "2.1.0",
+  "license": "MIT",
+  "author": {
+    "name": "Oleg Varaksin",
+    "email": "ovaraksin@googlemail.com",
+    "url": "https://github.com/ova2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ova2/angular-development-with-primeng.git"
+  },
+  "keywords": [
+    "primeng",
+    "angular",
+    "primeng-extensions",
+    "primeng extensions",
+    "primeng steps",
+    "angular components",
+    "wizard",
+    "wizard component"
+  ],
+  "dependencies": {
+    "@angular/animations": "~4.3.0",
+    "@angular/common": "~4.3.0",
+    "@angular/compiler": "~4.3.0",
+    "@angular/compiler-cli": "~4.3.0",
+    "@angular/core": "~4.3.0",
+    "@angular/forms": "~4.3.0",
+    "@angular/http": "~4.3.0",
+    "@angular/platform-browser": "~4.3.0",
+    "@angular/platform-browser-dynamic": "~4.3.0",
+    "@angular/platform-server": "~4.3.0",
+    "@angular/router": "~4.3.0",
+    "core-js": "~2.4.1",
+    "rxjs": "~5.4.2",
+    "zone.js": "~0.8.13",
+    "primeng": "~4.1.0",
+    "font-awesome": "~4.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "~8.0.13",
+    "del-cli": "~1.1.0",
+    "tslib": "~1.7.1",
+    "tslint": "~5.5.0",
+    "typescript": "~2.4.1"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "lint": "tslint -c tslint.json src/**/*.ts",
+    "clean": "del-cli aot components/**/*.d.ts components/**/*.js src/**/*.js.map components/**/*.metadata.json",
+    "prengc": "npm run clean",
+    "ngc": "ngc -p tsconfig.json",
+    "update": "npm run ngc && npm version minor && npm publish && npm run clean"
+  }
+}

@@ -1,0 +1,20 @@
+// 1. Vendor files
+@import "~primeng/resources/themes/omega/theme.css";
+@import "~primeng/resources/primeng.min.css";
+@import "~font-awesome/css/font-awesome.min.css";
+@import "~bootstrap/scss/bootstrap-grid";
+@import "~bootstrap/scss/utilities/flex";
+
+// 2. Helpers (variables, mixins, functions, ...)
+@import "helpers/variables";
+@import "helpers/mixins";
+
+// 3. Base stuff (common settings for all components and pages)
+@import "common/global";
+@import "common/components";
+
+// 4. Styles for components
+@import "../../app/app.component";
+@import "../../app/main/main.component";
+@import "../../app/layout/layout.component";
+@import "../../app/panel/toolbar/toolbar.component";

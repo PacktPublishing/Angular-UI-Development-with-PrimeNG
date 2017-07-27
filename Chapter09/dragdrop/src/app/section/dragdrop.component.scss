@@ -1,0 +1,17 @@
+body .dnd-container {
+  font-size: 0.9em;
+  max-width: 1200px;
+  margin: auto;
+}
+
+body .ui-panel .ui-panel-content {
+  padding: 0.5em;
+}
+
+body .ui-panel .ui-panel-titlebar {
+  cursor: move;
+}
+
+.dragged-doc {
+  border: solid 2px red;
+}

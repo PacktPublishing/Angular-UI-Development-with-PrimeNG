@@ -1,0 +1,7 @@
+@import "~bootstrap/scss/mixins/breakpoints";
+
+@include media-breakpoint-down(md) {
+  body {
+    font-size: 0.9em;
+  }
+}
