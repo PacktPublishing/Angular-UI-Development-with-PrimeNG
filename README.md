@@ -29,7 +29,5 @@ The code will look like the following:
 * [Mastering AngularJS UI Development [Video]](https://www.packtpub.com/web-development/mastering-angularjs-ui-development-video?utm_source=GitHub&utm_medium=repo&utm_campaign=9781785289910)
 
 * [Data-oriented Development with AngularJS](https://www.packtpub.com/web-development/data-oriented-development-angularjs?utm_source=GitHub&utm_medium=repo&utm_campaign=9781784398057)
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
 
 
