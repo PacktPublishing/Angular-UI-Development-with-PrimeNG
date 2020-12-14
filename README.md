@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/angular-ui-development-with-primeng/9781788299572)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Angular UI Development with PrimeNG
 
 This is the code repository for [Angular UI Development with PrimeNG](https://www.packtpub.com/web-development/learning-angular-ui-development-primeng?utm_source=GitHub&utm_medium=repo&utm_campaign=9781788299572), published by [Packt](https://www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
