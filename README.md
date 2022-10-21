@@ -31,3 +31,7 @@ The code will look like the following:
 * [Data-oriented Development with AngularJS](https://www.packtpub.com/web-development/data-oriented-development-angularjs?utm_source=GitHub&utm_medium=repo&utm_campaign=9781784398057)
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788299572">https://packt.link/free-ebook/9781788299572 </a> </p>
